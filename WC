@@ -2,6 +2,10 @@
 // 配置地址 --> clan://localhost/TVBox/顺财.txt
 //本接口仅限测试之用，请勿乱传、售卖，感谢理解。
 {
+"spider": "./jar/xyqxbpq",
+"wallpaper": "./by/66tv.png",
+"warningText": "勿信视频中任何广告！专人维护•定期更新！",
+"logo": "https://gitee.com/lltv/by/raw/main/logo.png",
 
 "sites": [
 {
